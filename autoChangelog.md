@@ -1,4 +1,13 @@
-# 0.1.0 (2023-12-03)
+# [0.2.0](https://github.com/giacomofeltrin/website/compare/v0.1.0...v0.2.0) (2023-12-03)
+
+
+### Features
+
+* setup gh-pages ([59613f7](https://github.com/giacomofeltrin/website/commit/59613f7bd6960f5fe3a12aa88fa5a29ac8871f56))
+
+
+
+# [0.1.0](https://github.com/giacomofeltrin/website/compare/e7e24e2c8f1346c64d4649d1405b5dca44153067...v0.1.0) (2023-12-03)
 
 
 ### Features
