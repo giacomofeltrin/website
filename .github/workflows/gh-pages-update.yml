@@ -22,5 +22,9 @@ jobs:
         with:
           ref: 'main'
 
+      - name: Install npm dependencies
+        run: |
+          npm install react-scripts --save-dev
+
       - name: Lauch deploy command
         run: npm run deploy
