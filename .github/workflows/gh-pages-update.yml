@@ -1,0 +1,26 @@
+name: Update Github pages website
+
+# Controls when the workflow will activate
+on:
+  push:
+    branches: [ "main" ]
+
+  # Allows this workflow to be run manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  auto-version:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          ref: 'main'
+
+      - name: Lauch deploy command
+        run: npm run deploy
