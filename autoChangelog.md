@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/giacomofeltrin/website/compare/v0.2.0...v0.3.0) (2023-12-03)
+
+
+### Features
+
+* add automatic npm run deploy ([1dd1ff9](https://github.com/giacomofeltrin/website/commit/1dd1ff915a4ca893cc27c6b4701931b0d9e27d47))
+
+
+
 # [0.2.0](https://github.com/giacomofeltrin/website/compare/v0.1.0...v0.2.0) (2023-12-03)
 
 
