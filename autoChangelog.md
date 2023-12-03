@@ -1,3 +1,12 @@
+## [0.3.1](https://github.com/giacomofeltrin/website/compare/v0.3.0...v0.3.1) (2023-12-03)
+
+
+### Bug Fixes
+
+* add npm dependency step ([0fb239f](https://github.com/giacomofeltrin/website/commit/0fb239f1e9a547df3245c710757b7837a15ae4da))
+
+
+
 # [0.3.0](https://github.com/giacomofeltrin/website/compare/v0.2.0...v0.3.0) (2023-12-03)
 
 
